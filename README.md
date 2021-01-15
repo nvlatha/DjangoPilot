@@ -1,0 +1,2 @@
+# DjangoPilot
+Learning Django
